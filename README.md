@@ -1,2 +1,2 @@
-# LISTAS-DE-EXERC-CIOS
+# LISTAS-DE-EXERCICIOS
 Respostas das listas de exercícios
